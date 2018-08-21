@@ -1,0 +1,43 @@
+body {
+  padding-top: 54px;
+  color: #ff9f43;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+h1{
+  position: center;
+}
+#form{
+	background-color: #f7f7f7;
+	padding: 10px;
+	border-radius: 6px;
+
+}
+
+#error{
+	color: #d63031;
+	text-align: center;
+	margin-left: 50px;
+}
+#success{
+    color: #27ae60;
+    text-align: center;
+    
+}
+#tota{
+  margin-left: 150px;
+}
+#info{
+    color: #27ae60;
+    text-align: center;
+    margin-left: 50px; 
+}
+a{
+	text-decoration: none;
+	color: #455A64;
+}
